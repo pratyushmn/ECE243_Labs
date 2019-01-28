@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/praty/GoogleDrive/university/schoolstuff/Year2/ECE243/Labs/Lab1/Design_Files_1/part2.Verilog/ModelSim
+vcount5
+Z1 !s110 1548098386
+!i10b 1
+!s100 GcddHSC]`G?G`4gz0UZfg3
+ImJf>4c82iMo6;k^j9BK=m1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1548095917
+Z4 8../part2.v
+Z5 F../part2.v
+L0 30
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1548098386.000000
+Z8 !s107 ../proc.v|../part2.v|../inst_mem.v|
+Z9 !s90 -reportprogress|300|../inst_mem.v|../part2.v|../proc.v|
+!i113 1
+Z10 tCvgOpt 0
+vdec3to8
+R1
+!i10b 1
+!s100 :iOTRd>>88FD5<OFogV_61
+IhEDkjAjoz@o8dNGF@<Z]a2
+R2
+R0
+Z11 w1548098372
+Z12 8../proc.v
+Z13 F../proc.v
+L0 176
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vinst_mem
+R1
+!i10b 1
+!s100 OEX7eXmO^5^SkZ6W9zWFP1
+IkdHl<nmIhnFZ2X@4_S9[I3
+R2
+R0
+w1548098100
+8../inst_mem.v
+F../inst_mem.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart2
+R1
+!i10b 1
+!s100 FlG^[h=O:1QVIW5nUj:=F2
+ITn_XMDMRXgBBN`PGiHXUc3
+R2
+R0
+R3
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vproc
+R1
+!i10b 1
+!s100 AicVB87CfOkH>@P;6M4_m3
+IG5OQCC@oJo6jGI8c^UXHn3
+R2
+R0
+R11
+R12
+R13
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregn
+R1
+!i10b 1
+!s100 czFS?8KObXiREODzQcAJF2
+I?WMdC3`i<4hgW:h3aKBK]0
+R2
+R0
+R11
+R12
+R13
+L0 200
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtestbench
+R1
+!i10b 1
+!s100 ?M365^KizSzN?=gIZVQF=3
+IePi<^B7G9]Eh?zzKCGJ5F3
+R2
+R0
+R3
+8testbench.v
+Ftestbench.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R10
