@@ -72,7 +72,7 @@ module proc(DIN, Resetn, Clock, Run, Done, BusWires);
 					begin
 						// data is required to be on DIN
 						// ... your code goes here
-						Rout = DINout;
+						DINout = 1;
 						Rin = Xreg;
 						Done = 1'b1;
 					end
